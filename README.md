@@ -23,3 +23,6 @@ None
 
 Unzip to the mod directory of your Elgg installation and activate through the admin plugins page
 
+## Acknowledgments
+
+Funding for this plugin has been provided by Connecting Conservation.
